@@ -12,4 +12,4 @@ Explore the interactive Tableau dashboard https://public.tableau.com/app/profile
 
 ## Article
 
-Curious to learn more? Check out the accompanying article: ["Unmasking the Crime Landscape of Los Angeles: A Data-Driven Journey"](https://medium.com/@rvora3/unveiling-the-crime-landscape-of-los-angeles-a-data-driven-exploration-199548a1c980) to see the fascinating insights gleaned from the data.
+Curious to learn more? Check out the accompanying article: ["Unmasking the Crime Landscape of Los Angeles: A Data-Driven Journey"](https://medium.com/@rvora3/unveiling-the-crime-landscape-of-los-angeles-a-data-driven-exploration-199548a1c980)  to see the fascinating insights gleaned from the data.
